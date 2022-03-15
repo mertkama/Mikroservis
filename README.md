@@ -1,3 +1,3 @@
 # Mikroservis
 
-Mikroservisler konusunda aldığım eğitim ders notlarım.
+Mikroservisler konusunda aldığım eğitimin ders notlarım.
