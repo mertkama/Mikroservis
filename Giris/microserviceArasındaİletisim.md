@@ -1,9 +1,11 @@
 Microservice arasında iletişim nasıl gerçekleşir ?
 
-https://kodlamaklazim.com/images/blog_content_image/0OF7LMTroH8px9F2peT6skaskfark.png
 
 
------fotoğraf---
+![Ekran Alıntısı](https://user-images.githubusercontent.com/97520268/158466740-a7f51635-6d14-44e8-988d-e5a846b0c539.PNG)
+
+![0OF7LMTroH8px9F2peT6skaskfark](https://user-images.githubusercontent.com/97520268/158466754-8fbaf130-4484-467c-8616-8106a315c812.png)
+
 
 
 Bir istek diğer bir mikroservis ile iletişime geçtiğinde
