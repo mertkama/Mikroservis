@@ -1,4 +1,4 @@
-Microservice arasında iletişim nasıl gerçekleşir ?
+***'Microservice arasında iletişim nasıl gerçekleşir ?'***
 
 
 
@@ -11,7 +11,7 @@ Microservice arasında iletişim nasıl gerçekleşir ?
 Bir istek diğer bir mikroservis ile iletişime geçtiğinde
 
 
-senkron = sonuç beklenir
+```senkron = sonuç beklenir()```
 
 asenkron = sonuç beklenmez. (Best Practice)
 
